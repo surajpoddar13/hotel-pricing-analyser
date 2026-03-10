@@ -18,11 +18,12 @@ Data analysis helps convert raw hotel data into useful insights that support dec
 
 # Technical Approach
 
-The project uses Python and data analysis libraries to process and analyze hotel data.
+The project uses Playwright for data scraping, Python for data analysis libraries to process and analyze hotel data.
 
 # Technologies used:
 
 Python
+Playwright Scraping
 Pandas for data cleaning and analysis
 Jupyter Notebook for analysis and reporting
 
