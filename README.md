@@ -67,6 +67,8 @@ Open the Jupyter notebook: jupyter notebook
 
 Run the notebook files to reproduce the analysis and visualizations.
 
+# Working video on linkedIn
+
 # Future Improvements
 Possible improvements include:
 
